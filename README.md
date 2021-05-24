@@ -11,6 +11,8 @@
 ![D3 badge](https://img.shields.io/badge/D3.js-F9A03C?logo=d3-dot-js&style=flat&logoColor=white)
 ![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&style=flat&logoColor=white)
 ![CSS badge](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&style=flat&logoColor=white)
+![QGIS badge](https://img.shields.io/badge/QGIS-589632?logo=Qgis&style=flat&logoColor=white)
+![Mapbox badge](https://img.shields.io/badge/Mapbox-000000?logo=Mapbox&style=flat&logoColor=white)
 
 <p align='left'>I'm a data journalist and reporter from South Africa. I use data to tell stories, and love digging into big datasets to uncover hidden insights. 
 
