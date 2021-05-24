@@ -8,7 +8,7 @@
 ![TensorFlow badge](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&style=flat&logoColor=white)
 ![scikit-learn badge](https://img.shields.io/badge/scikit-learn-F7931E?logo=scikit-learn&style=flat&logoColor=white)
 ![JavaScript badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&style=flat&logoColor=white)
-![D3.js badge](https://img.shields.io/badge/D3.js-F9A03C?logo=D3.js&style=flat&logoColor=white)
+![D3 badge](https://img.shields.io/badge/D3.js-F9A03C?logo=d3-dot-js&style=flat&logoColor=white)
 ![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&style=flat&logoColor=white)
 ![CSS badge](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&style=flat&logoColor=white)
 
