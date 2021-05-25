@@ -17,7 +17,7 @@
 <p align='left'>I'm a data journalist and reporter from South Africa. I use data to tell stories, and love digging into big datasets to uncover hidden insights. 
 
 - 🔭 I’m currently working as China-focused data reporter
-- 🌱 I’m currently learning natural language processing 
+- 🌱 I’m currently learning natural language processing and Svelte.js
 - 👯 I’m looking to collaborate on Python projects, data visualizations, and data reporting </p>
 
 Most recently, I've been tracking the COVID-19 vaccine rollout across the US. Take a look [here](https://covid-vac-us.herokuapp.com) and feel free to send feedback. 
