@@ -15,7 +15,7 @@
 
 <p align='left'>I'm a data journalist and reporter from South Africa. I use data to tell stories, and love digging into big datasets to uncover hidden insights. 
 
-- 🔭 I’m currently working as China-focused data reporter
+- 🔭 I’m currently working as data and graphics reporter. I was previously focused on reporting on tech in China
 - 🌱 I’m currently learning natural language processing
 - 👯 I’m looking to collaborate on Python projects, data visualizations, and data reporting </p>
 
