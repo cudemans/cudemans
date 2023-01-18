@@ -20,4 +20,4 @@
 - 👯 I’m looking to collaborate on Python projects, data visualizations, and data reporting </p>
 
 ## Get in contact
-[![Linkedin Badge](https://img.shields.io/badge/-christopherudemans-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christopher-udemans/)](https://www.linkedin.com/in/christopher-udemans/) [![Github Badge](https://img.shields.io/badge/-simprisms-grey?style=flat&logo=github&logoColor=white&link=https://github.com/simprisms/)](https://www.github.com/simprisms/) [![Twitter Badge](https://img.shields.io/badge/-chrisudemans-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/chrisudemans/)](https://www.twitter.com/chrisudemans/) 
+[![Linkedin Badge](https://img.shields.io/badge/-christopherudemans-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christopher-udemans/)](https://www.linkedin.com/in/christopher-udemans/) [![Twitter Badge](https://img.shields.io/badge/-chrisudemans-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/chrisudemans/)](https://www.twitter.com/chrisudemans/) 
