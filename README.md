@@ -17,5 +17,6 @@
 
 - 🔭 I’m currently working as data and graphics reporter. I was previously focused on reporting on tech in China
 - 🌱 I’m currently learning natural language processing
-- 👯 I’m looking to collaborate on Python projects, data visualizations, and data reporting </p>
+- 👯 I’m looking to collaborate on Python projects, data visualizations, and data reporting
+- 🧱 I'm currently building [ml.js](https://github.com/cudemans/ml.js) and [summarystats.js](https://github.com/cudemans/summarystats)
 
